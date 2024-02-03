@@ -32,6 +32,6 @@ Score is displayed at the top left corner of the game screen.
 
 ![Main Menu](https://github.com/HusnainTaj/Tetris.asm/assets/85726252/8fd1f2c4-763f-4bd9-88eb-13dabcefd7f8)
 
-![Game](https://github.com/HusnainTaj/Tetris.asm/assets/85726252/9d175e59-3fb9-4433-9435-2b0c6fe2b1d0)
+![Game](https://github.com/HusnainTaj/Tetris.asm/assets/85726252/cad18fc3-660c-496f-b238-93ca396f0992)
 
 ![End Screen](https://github.com/HusnainTaj/Tetris.asm/assets/85726252/81829cb0-6313-4a42-9bef-a2db8d843342)
